@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 6: 06 June 2022 (Mon)
+##### https://twitter.com/Temwa48/status/1533856284348383236?s=20&t=tBFU2Uqlvu5warmkYRWqug
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Read Chapters 3 - 6 of C All-in-One Desk Reference, Boook I and completed Lessons 8 - 11 of Sololearn
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I missed the last two days so I'm in catch-up mode. It was a lot of information but I think that I've got it all in. After I complete Book I, I'll start looking into starting projects (so from next week)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link(s) to what I did today**: https://github.com/Temwa48/100-days-of-code_projects/tree/main/round_1-C/day_6
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 5: 05 June 2022 (Sun)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 4: 04 June 2022 (Sat)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 3: 03 June 2022 (Fri)
+##### https://twitter.com/Temwa48/status/1532439272309018648?s=20&t=tBFU2Uqlvu5warmkYRWqug
 
+### Day 2: 02 June 2022 (Thurs)
+##### https://twitter.com/Temwa48/status/1532439272309018648?s=20&t=tBFU2Uqlvu5warmkYRWqug
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 1: 01 June 2022 (Wed)
+##### https://twitter.com/Temwa48/status/1532082264523382785?s=20&t=tBFU2Uqlvu5warmkYRWqug
