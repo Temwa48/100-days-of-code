@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 7: 07 June 2022 (Tues)
+### Day 8: 08 June 2022 (Wed)
 ##### https://twitter.com/Temwa48/status/1534659393802887168?s=20&t=V2Dp8pcA2kHaC9_Cm-piVA
 
 **Today's Progress**: Two more chapters down
