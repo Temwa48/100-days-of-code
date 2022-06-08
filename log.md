@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 ### Day 7: 07 June 2022 (Tues)
+##### https://twitter.com/Temwa48/status/1534659393802887168?s=20&t=V2Dp8pcA2kHaC9_Cm-piVA
+
+**Today's Progress**: Two more chapters down
+
+**Thoughts:** I'm ready for code challenges 😂. I'm going to look into leetcode of codewars
+
+**Link(s) to what I did today**: https://github.com/TemwaNyirenda/100-days-of-code_projects/tree/main/round_1-C/day_8
+
+
+### Day 7: 07 June 2022 (Tues)
 ##### https://twitter.com/Temwa48/status/1534292465318080513?s=20&t=Z-Gpr8TEnoE4aMUluY5Mpg
 
 **Today's Progress**: Spent the day programming projects
