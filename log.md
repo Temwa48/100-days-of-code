@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: 09 June 2022 (Thurs)
+##### https://twitter.com/Temwa48/status/1535027668479102982?s=20&t=AUBLvwmMmHT3tY4XFArWBg
+
+**Today's Progress**: Two more chapters down
+
+**Thoughts:** I might not be ready for code challenges yet... I've finishe Book I of the C All-in-One Desk Reference for Dummies
+
+**Link(s) to what I did today**: https://github.com/TemwaNyirenda/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops
+
+
 ### Day 8: 08 June 2022 (Wed)
 ##### https://twitter.com/Temwa48/status/1534659393802887168?s=20&t=V2Dp8pcA2kHaC9_Cm-piVA
 
